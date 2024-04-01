@@ -1,13 +1,13 @@
-# UNIT HBRIDGE
+# M5UnitHbridge
 
 ## Overview
 
-Contains case programs of M5Stack UNIT ENCODER.
+Contains case programs of M5Stack Unit Hbridge
 
 ## Related Link
 
-- [Docment - UNIT HBRIDGE](https://docs.m5stack.com/zh_CN/unit/Hbridge%20Unit)
+- [Docment - M5UnitHbridge](https://docs.m5stack.com/en/unit/HBridge%20v1.1%20Unit)
 
 ## License
 
-[HBRIDGE - MIT](LICENSE)
+[M5UnitHbridge - MIT](LICENSE)
